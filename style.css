@@ -77,8 +77,7 @@ nav hr {
 }
 
 .navbar-toggler-icon {
-    background-image: url(images
-/btn-hamburguesa.png);
+    background-image: url(images/btn-hamburguesa.png);
 }
 
 .navbar-toggler {
@@ -130,8 +129,7 @@ nav hr {
 }
 
 .closeModal {
-    background-image: url(images
-/cerrar-modal.png);
+    background-image: url(images/cerrar-modal.png);
     --bs-btn-close-bg: url(images
 /cerrar-modal.png);
     background-size: contain;
@@ -186,8 +184,7 @@ nav hr {
 .waveIndex {
     width: 100%;
     padding: 4% 0px 6% 0px;
-    background-image: url(images
-/wave-new-2.png);
+    background-image: url(images/wave-new-2.png);
     background-size: cover;
 }
 
@@ -595,8 +592,7 @@ main .marcas img {
 .mainPreguntas {
     width: 100%;
     padding: 8% 0px;
-    background-image: url(images
-/wave.svg);
+    background-image: url(images/wave.svg);
     background-size: cover;
     background-position-y: bottom;
 }
@@ -613,14 +609,12 @@ main .marcas img {
 }
 
 .accordion-button::after {
-    background-image: url(images
-/btn-mas.png);
+    background-image: url(images/btn-mas.png);
     transition: none;
 }
 
 .accordion-button:not(.collapsed)::after {
-    background-image: url(images
-/btn-menos.png);
+    background-image: url(images/btn-menos.png);
     transition: none;
 }
 
@@ -686,8 +680,7 @@ main .marcas img {
 .waveProposito {
     width: 100%;
     padding: 4% 0px 10% 0px;
-    background-image: url(images
-/waveprop_02.png);
+    background-image: url(images/waveprop_02.png);
     background-size: cover;
 }
 
@@ -771,8 +764,7 @@ main .marcas img {
 .waveEquipo {
     width: 100%;
     padding: 4% 0px 10% 0px;
-    background-image: url(images
-/wave-equipo.png);
+    background-image: url(images/wave-equipo.png);
     background-size: cover;
 }
 
