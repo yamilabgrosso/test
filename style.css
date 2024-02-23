@@ -525,7 +525,7 @@ main .marcas img {
 }
 
 .fs-lg {
-    width: 40%;
+    width: 20%;
     align-self: end;
     justify-self: center;
     margin-bottom: 12px;
@@ -923,6 +923,8 @@ footer .footerMarca{
     text-align: center;
     font-weight: bold;
     font-family: "Cera pro black";
+    font-size: 1.5rem;
+    padding-top: 20px;
 }
 
 
@@ -986,6 +988,7 @@ form a{
         display: flex;
         justify-content: center;
         text-decoration: none;
+        grid-column: span 2;
     }
 
 
